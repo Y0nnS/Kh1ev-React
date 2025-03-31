@@ -1,5 +1,3 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
 /.pnp
@@ -10,6 +8,8 @@
 
 # production
 /build
+/.next
+/.turbo
 
 # misc
 .DS_Store
@@ -21,3 +21,22 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Folder server-side
+/node_modules
+/server/node_modules
+/server
+/src/server
+
+# Editor & OS Files
+.vscode/
+.idea/
+
+# Cache & Output Files
+.parcel-cache
+.eslintcache
+.babelrc
+
+# Dependency lock files (opsional, kecuali kalau pakai monorepo)
+package-lock.json
+yarn.lock

@@ -1,0 +1,44 @@
+[
+  {
+    "season": "Season #1",
+    "name": "Luhut",
+    "rank": "🏆",
+    "image": "./imageLeaderboard/s1.png"
+  },
+  {
+    "season": "Season #2",
+    "name": "Luhut",
+    "rank": "🥈",
+    "image": "./imageLeaderboard/s2.png"
+  },
+  {
+    "season": "Season #3",
+    "name": "nsx4y",
+    "rank": "🥉",
+    "image": "./imageLeaderboard/s3.png"
+  },
+  {
+    "season": "Season #4",
+    "name": "Yura",
+    "rank": "🏅",
+    "image": "./imageLeaderboard/s4.png"
+  },
+  {
+    "season": "Season #5",
+    "name": "Tame",
+    "rank": "🏅",
+    "image": "./imageLeaderboard/s5.png"
+  },
+  {
+    "season": "Season #6",
+    "name": "Tame",
+    "rank": "🏅",
+    "image": "./imageLeaderboard/s6.png"
+  },
+  {
+    "season": "Season #7",
+    "name": "Tame",
+    "rank": "🏅",
+    "image": "./imageLeaderboard/s7-chat.png"
+  }
+]
